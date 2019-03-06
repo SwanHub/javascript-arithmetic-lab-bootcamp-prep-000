@@ -29,4 +29,4 @@ function makeInt(n) {
   return n;
 }
 
-makeInt(n, 10)
+makeInt(n, 10);
