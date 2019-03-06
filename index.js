@@ -29,7 +29,5 @@ function makeInt(n) {
   return parse;
 }
 
-makeInt('0x2328');
-
 
 
