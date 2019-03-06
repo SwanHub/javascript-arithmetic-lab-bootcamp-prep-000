@@ -29,4 +29,8 @@ function makeInt(n) {
   return n;
 }
 
-makeInt(n, 10);
+function makeInt(n) {
+  parseInt(n, 10);
+  return n;
+}
+
