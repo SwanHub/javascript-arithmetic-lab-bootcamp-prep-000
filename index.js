@@ -29,5 +29,5 @@ function makeInt(n) {
   return n;
 }
 
-makeInt(0*2328);
+makeInt('0x2328');
 
