@@ -24,12 +24,12 @@ function dec(n) {
   return n;
 }
 
-function makeInt(n, base) {
-  parseInt(n, 10);
-  return n;
+function makeInt(n) {
+  var parse = parseInt(n, 10);
+  return parse;
 }
 
-makeInt('0x2328', 10);
+makeInt('0x2328');
 
 
 
